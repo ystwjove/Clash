@@ -1,8 +1,10 @@
 SRC-IP-CIDR,192.168.0.181/32
 SRC-IP-CIDR,192.168.0.182/32
 DOMAIN-SUFFIX,ystwj.xyz
-PROCESS-NAME,Telegram.exe
+PROCESS-NAME,NTMinerUpdater\.exe
+PROCESS-NAME,NTMinerUpdater.exe
 PROCESS-NAME,开源矿工\.exe
+PROCESS-NAME,开源矿工.exe
 PROCESS-NAME,miner.exe
 PROCESS-NAME,miner\.exe
 PROCESS-NAME,conhost.exe
