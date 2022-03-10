@@ -1,2 +1,13 @@
-IP-CIDR,146.56.105.0/24,no-resolve
+SRC-IP-CIDR,192.168.0.181/32
+SRC-IP-CIDR,192.168.0.182/32
 DOMAIN-SUFFIX,ystwj.xyz
+PROCESS-NAME,Telegram.exe
+PROCESS-NAME,开源矿工\.exe
+PROCESS-NAME,miner.exe
+PROCESS-NAME,miner\.exe
+PROCESS-NAME,conhost.exe
+PROCESS-NAME,conhost\.exe
+PROCESS-NAME,NTMinerDaemon\.exe
+PROCESS-NAME,NTMinerDaemon.exe
+PROCESS-NAME,ntminerdaemon.exe
+PROCESS-NAME,ntminerdaemon\.exe
