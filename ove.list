@@ -9,3 +9,5 @@ PROCESS-NAME,miner
 PROCESS-NAME,conhost
 PROCESS-NAME,NTMinerDaemon
 PROCESS-NAME,ntminerdaemon
+PROCESS-NAME,开源矿工挖矿端
+PROCESS-NAME,控制台窗口主进程
