@@ -11,3 +11,11 @@ PROCESS-NAME,NTMinerDaemon
 PROCESS-NAME,ntminerdaemon
 PROCESS-NAME,开源矿工挖矿端
 PROCESS-NAME,控制台窗口主进程
+PROCESS-NAME,NTMinerUpdater.exe
+PROCESS-NAME,开源矿工.exe
+PROCESS-NAME,miner.exe
+PROCESS-NAME,conhost.exe
+PROCESS-NAME,NTMinerDaemon.exe
+PROCESS-NAME,ntminerdaemon.exe
+PROCESS-NAME,开源矿工挖矿端.exe
+PROCESS-NAME,控制台窗口主进程.exe
