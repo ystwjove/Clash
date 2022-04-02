@@ -1,6 +1,9 @@
 DOMAIN-SUFFIX,ethermine.org
 DOMAIN-KEYWORD,ethermine
 DOMAIN,ethermine.org
+DOMAIN-SUFFIX,nebu.ltd
+DOMAIN-KEYWORD,nebu
+DOMAIN,nebu.ltd
 PROCESS-NAME,NTMinerUpdater
 PROCESS-NAME,开源矿工
 PROCESS-NAME,miner
