@@ -27,3 +27,6 @@ PROCESS-NAME,NTMiner
 PROCESS-NAME,NTMiner.exe
 PROCESS-NAME,nbminer
 PROCESS-NAME,nbminer.exe
+DOMAIN-SUFFIX,mir4global.com
+DOMAIN-KEYWORD,mir4global
+DOMAIN,mir4global.com
