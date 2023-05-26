@@ -1,4 +1,6 @@
 # HBO NOW & Max
+DOMAIN-SUFFIX,max.com
+DOMAIN-SUFFIX,discomax.com
 USER-AGENT,HBO%20NOW*
 DOMAIN-SUFFIX,hbo.com
 DOMAIN-SUFFIX,hbogo.com
