@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-KEYWORD,openai
 DOMAIN,openai.com
 IP-CIDR, 52.15.182.157/32
